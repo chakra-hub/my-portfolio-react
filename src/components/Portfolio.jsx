@@ -20,7 +20,7 @@ const Portfolio = () => {
             </div>
             <div className="allprojects">
             <Project img={FoodBox} name={'FoodBox  🍔'} desc={desc_foodbox} language={{one:'React', two:'Redux', three: "CSS"}} link={{code:'https://github.com/chakra-hub/FoodBox', live:'https://chakra-hub-foodbox.netlify.app/'}}/>
-            <ProjectOther img={Youtube} name={'Youtube '} desc={youtube_desc} language={{one:'React', two:'Redux', three: "CSS"}} link={{code:'akdjfk', live:'jsdkfjae'}}/>
+            <ProjectOther img={Youtube} name={'Youtube '} desc={youtube_desc} language={{one:'React', two:'Redux', three: "CSS"}} link={{code:'https://github.com/chakra-hub/myTube-react', live:'https://chakra-hub-mytube.netlify.app/'}}/>
             <Project img={Resumai} name={'ResumAI'} desc={airesume_desc} language={{one:'React', two:'CSS'}} link={{code:'https://github.com/chakra-hub/resumAI-react', live:'https://chakra-hub-resumai.netlify.app/'}}/>
             </div>
         </div> 

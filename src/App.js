@@ -6,7 +6,7 @@ import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 
 function App() {
-  document.title="Chakradhar"
+  document.title="Chakradhar | React Developer"
   return (
     <div className="App">
       <Header/>
